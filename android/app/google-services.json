@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777466200853",
+    "project_id": "vkrstudyver01",
+    "storage_bucket": "vkrstudyver01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777466200853:android:80736b535ff57ec90e9f1c",
+        "android_client_info": {
+          "package_name": "com.studycontrol.vkr_study_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777466200853-ma38ab974vt7vebf83gpo70b3e3vhmdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1UjO3ZxQUr4Zc_TZZbCcydASsTsjbwG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777466200853-ma38ab974vt7vebf83gpo70b3e3vhmdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
